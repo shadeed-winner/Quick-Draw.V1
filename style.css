@@ -1,0 +1,37 @@
+body {
+    background-color: lightgreen;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#score {
+    font-size: 30px;
+    margin-left: -800px;
+    font-weight: 550;
+}
+
+#timer {
+    font-size: 30px;
+    float: right;
+    margin-right: 125.5px;
+    font-weight: 550;
+}
+
+h1 {
+    color: blue;
+    background-color: aqua;
+    height: 35px;
+    font-weight: bold;
+}
+
+#show_sketch {
+    float: right;
+}
+
+#objective {
+    font-size: 20;
+    font-weight: 600;
+}
+
+#sketch, #confidence {
+    font-size: 20;
+}
